@@ -3,7 +3,7 @@
 - 💻 I’m interested in making great things with computers
 - 🌱 I’m currently learning NodeJS and Software Design patterns
 - 💞️ I’m looking to collaborate on Software Projects
-- 📫 You can follow my Mastodon here [@joshhale@toot.io](https://elk.zone/toot.io/joshhale)
+- 📫 You can follow my Mastodon here [@joshhale@toot.io](https://elk.zone/m.webtoo.ls/@joshhale@toot.io)
 
 <!---
 LegoGuy32109/LegoGuy32109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
